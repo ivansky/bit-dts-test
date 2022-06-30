@@ -1,0 +1,22 @@
+{
+  "name": "bit-dts-test",
+  "packageManager": "yarn@3.2.1",
+  "scripts": {
+    "tsc": "node ./node_modules/.bin/tsc"
+  },
+  "resolutions": {
+    "@types/node": "16.11.27",
+    "@types/react": "16.14.11",
+    "@types/react-dom": "16.9.14",
+    "@types/styled-components": "5.1.9",
+    "styled-components": "5.3.5"
+  },
+  "devDependencies": {
+    "@types/node": "16.11.27",
+    "@types/react": "16.14.11",
+    "@types/react-dom": "16.9.14",
+    "@types/styled-components": "5.1.9",
+    "prettier": "^2.7.1",
+    "typescript": "^4.7.4"
+  }
+}
