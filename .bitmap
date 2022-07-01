@@ -11,25 +11,25 @@
 {
     "custom-node": {
         "scope": "dts-test.extensions",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
         "rootDir": "extensions/custom-node"
     },
     "custom-react": {
         "scope": "dts-test.extensions",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
         "rootDir": "extensions/custom-react"
     },
     "gallery": {
-        "scope": "",
-        "version": "",
+        "scope": "dts-test.components",
+        "version": "0.0.1",
         "mainFile": "index.tsx",
         "rootDir": "components/gallery"
     },
     "modal": {
-        "scope": "",
-        "version": "",
+        "scope": "dts-test.components",
+        "version": "0.0.1",
         "mainFile": "index.tsx",
         "rootDir": "components/modal"
     },

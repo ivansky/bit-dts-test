@@ -1,1 +1,1 @@
-/// <reference types="../components/modal/@types/modal.theme.d.ts" />
+/// <reference types="../components/modal/@types/modal.theme" />
